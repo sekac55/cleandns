@@ -1,0 +1,78 @@
+! CleanDNS Apple Whitelist
+! Source: https://support.apple.com/en-us/HT210060
+
+
+! Device setup
+@@||albert.apple.com
+@@||captive.apple.com
+@@||gs.apple.com	
+@@||humb.apple.com
+@@||static.ips.apple.com	
+@@||sq-device.apple.com	
+@@||tbsc.apple.com	
+@@||time-ios.apple.com	
+@@||time.apple.com	
+@@||time-macos.apple.com
+! Device Management
+@@||*.push.apple.com	
+@@||gdmf.apple.com	
+@@||deviceenrollment.apple.com	
+@@||deviceservices-external.apple.com	
+@@||identity.apple.com	
+@@||iprofiles.apple.com	
+@@||mdmenrollment.apple.com	
+@@||setup.icloud.com	
+@@||vpp.itunes.apple.com
+! Apple School Manager and Apple Business Manager
+@@||*.school.apple.com	
+@@||ws-ee-maidsvc.icloud.com	
+@@||*.business.apple.com.	
+@@||isu.apple.com
+! Software updates
+@@||appldnld.apple.com	
+@@||configuration.apple.com	
+@@||gg.apple.com	
+@@||gnf-mdn.apple.com	
+@@||gnf-mr.apple.com	
+@@||gs.apple.com	
+@@||ig.apple.com	
+@@||mesu.apple.com	
+@@||ns.itunes.apple.com	
+@@||oscdn.apple.com	
+@@||osrecovery.apple.com	
+@@||skl.apple.com	
+@@||swcdn.apple.com	
+@@||swdist.apple.com	
+@@||swdownload.apple.com	
+@@||swpost.apple.com	
+@@||swscan.apple.com	
+@@||updates-http.cdn-apple.com	
+@@||updates.cdn-apple.com	
+@@||xp.apple.com	
+! App Store
+@@||*.itunes.apple.com	
+@@||*.apps.apple.com	
+@@||*.mzstatic.com	
+@@||itunes.apple.com	
+@@||ppq.apple.com
+! Content caching
+@@||lcdn-registration.apple.com	
+@@||serverstatus.apple.com
+! Feedback Assistant
+@@||fba.apple.com	
+@@||cssubmissions.apple.com	
+@@||bpapi.apple.com
+! Apple diagnostics
+@@||diagassets.apple.com
+! Domain Name System resolution
+@@||doh.dns.apple.com
+! Certificate validation
+@@||crl.apple.com	
+@@||crl.entrust.net	
+@@||crl3.digicert.com	
+@@||crl4.digicert.com	
+@@||ocsp.apple.com	
+@@||ocsp.digicert.com	
+@@||ocsp.entrust.net	
+@@||ocsp.verisign.net	
+@@||valid.apple.com	
