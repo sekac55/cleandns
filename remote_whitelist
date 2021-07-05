@@ -1,0 +1,9 @@
+! CleanDNS Remote Whitelist
+! Anydesk: https://support.anydesk.com/Firewall
+! TeamViewer: https://community.teamviewer.com/English/kb/articles/4139-which-ports-are-used-by-teamviewer
+!
+! Anydesk:
+@@||*.net.anydesk.com^
+!
+! TeamViewer:
+@@||*.teamviewer.com^
