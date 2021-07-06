@@ -1,0 +1,10 @@
+! CleanDNS Social Whitelist
+!
+! Facebook Whitelist
+@@||*graph.facebook.com^
+@@||*b-graph.facebook.com^
+@@||*b-api.facebook.com^
+@@||*edge-mqtt.facebook.com^
+!
+! Snapchat
+@@||*gcs.sc-cdn.net^
