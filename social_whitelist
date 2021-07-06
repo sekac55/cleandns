@@ -5,6 +5,8 @@
 @@||*b-graph.facebook.com^
 @@||*b-api.facebook.com^
 @@||*edge-mqtt.facebook.com^
+@@||*mqtt-p4.facebook.com^
+@@||*.connect.facebook.net^
 !
 ! Snapchat
 @@||*gcs.sc-cdn.net^
