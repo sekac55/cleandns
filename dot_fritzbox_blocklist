@@ -1,19 +1,5 @@
 ! CleanDNS DoT Fritzbox Blocklist
 !
-||*googleads.g.doubleclick.net.fritz.box^
-||*m.yap.yahoo.com.fritz.box^
-||*data.flurry.com.fritz.box^
-||*firebase-settings.crashlytics.com.fritz.box^
-||*analytics.query.yahoo.com.fritz.box^
-||*tspmagic.tumblr.com.fritz.box^
-||*ls.srvcs.tumblr.com.fritz.box^
-||*in.appcenter.ms.fritz.box^
-||*s.youtube.com.fritz.box^
-||*ad11.adfarm1.adition.com.fritz.box^
-||*cdn.optimizely.com.fritz.box^
-||*dpm.demdex.net.fritz.box^
-||*handm.demdex.net.fritz.box^
-||*handm-mkt-prod1-nlb.campaign.adobe.com.fritz.box^
 ||*dnsotls-ds.metric.gstatic.com.fritz.box^
 ||*metric.gstatic.com.fritz.box^
 ||*app-measurement.com.fritz.box^
@@ -36,3 +22,17 @@
 ||*ls.srvcs.tumblr.com.fritz.box^
 ||*tspmagic.tumblr.com.fritz.box^
 ||*s.youtube.com.fritz.box^
+||*googleads.g.doubleclick.net.fritz.box^
+||*m.yap.yahoo.com.fritz.box^
+||*data.flurry.com.fritz.box^
+||*firebase-settings.crashlytics.com.fritz.box^
+||*analytics.query.yahoo.com.fritz.box^
+||*tspmagic.tumblr.com.fritz.box^
+||*ls.srvcs.tumblr.com.fritz.box^
+||*in.appcenter.ms.fritz.box^
+||*s.youtube.com.fritz.box^
+||*ad11.adfarm1.adition.com.fritz.box^
+||*cdn.optimizely.com.fritz.box^
+||*dpm.demdex.net.fritz.box^
+||*handm.demdex.net.fritz.box^
+||*handm-mkt-prod1-nlb.campaign.adobe.com.fritz.box^
