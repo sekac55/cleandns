@@ -1,3 +1,7 @@
 ! Whitelist Crypto.com 
 !
+! Crypto.com
 @@||app.mona.co^
+!
+! Pi Network
+@@||socialchain.app^$important
