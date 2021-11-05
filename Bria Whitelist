@@ -1,15 +1,6 @@
 ! CleanDNS Bria Whitelist
 ! Source: https://docs.counterpath.com/docs/PortalUG/StrettoAdmin/reference/refNetworkPorts.htm
 !
-! Ports:
-! 443
-! 5060
-! 5061
-! 5291 (WSS for guest collab chat access)
-! 7443
-! 8082
-! 16384:32770 (TCP and UDP for RTP)
-!
 ! (for client provisioning)
 @@||login.softphone.com^
 !
@@ -38,20 +29,20 @@
 @@||docs.counterpath.com^
 !
 ! Push servers
-@@||https://push.softphone.com^
-@@||https://push-as.softphone.com^
-@@||https://push-as3.softphone.com^
-@@||https://push-au.softphone.com^
-@@||https://push-au2.softphone.com^
-@@||https://push-eu.softphone.com^
-@@||https://push-eu2.softphone.com^
-@@||https://push-jp.softphone.com^
-@@||https://push-uc.softphone.com^
-@@||https://push-ue.softphone.com^
-@@||https://push-ue3.softphone.com^
-@@||https://push-uw.softphone.com^
-@@||https://push-uw3.softphone.com^
-@@||https://push-za.softphone.com^
+@@||push.softphone.com^
+@@||push-as.softphone.com^
+@@||push-as3.softphone.com^
+@@||push-au.softphone.com^
+@@||push-au2.softphone.com^
+@@||push-eu.softphone.com^
+@@||push-eu2.softphone.com^
+@@||push-jp.softphone.com^
+@@||push-uc.softphone.com^
+@@||push-ue.softphone.com^
+@@||push-ue3.softphone.com^
+@@||push-uw.softphone.com^
+@@||push-uw3.softphone.com^
+@@||push-za.softphone.com^
 ! 
 ! Controllers and Related Servers
 @@||stretto.cloudprovisioning.com^
