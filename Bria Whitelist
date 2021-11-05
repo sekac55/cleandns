@@ -11,110 +11,110 @@
 ! 16384:32770 (TCP and UDP for RTP)
 !
 ! (for client provisioning)
-! @@||login.softphone.com^
+@@||login.softphone.com^
 !
 ! (for Team Voice SIP media and signaling)
-! @@||sip.softphone.com^
+@@||sip.softphone.com^
 !
 ! (for Team Messaging) This replaces im.bria-x.com
-! @@||im.softphone.com^
+@@||im.softphone.com^
 !
 ! (for user services)
-! @@||logging.softphone.com^
+@@||logging.softphone.com^
 !
 ! (for Help Desk Assistant)
-! @@||hda.softphone.com^
+@@||hda.softphone.com^
 !
 ! (for the Sync service)
-! @@||sync.bria-x.com^
+@@||sync.bria-x.com^
 !
 ! (for screen sharing)
-! @@||screensharing.softphone.com^
+@@||screensharing.softphone.com^
 !
 ! (for gathering call statistics)
-! @@||uem.bria-x.com^
+@@||uem.bria-x.com^
 !
 ! (for documentation)
-! @@||docs.counterpath.com^
+@@||docs.counterpath.com^
 !
 ! Push servers
-! @@||https://push.softphone.com^
-! @@||https://push-as.softphone.com^
-! @@||https://push-as3.softphone.com^
-! @@||https://push-au.softphone.com^
-! @@||https://push-au2.softphone.com^
-! @@||https://push-eu.softphone.com^
-! @@||https://push-eu2.softphone.com^
-! @@||https://push-jp.softphone.com^
-! @@||https://push-uc.softphone.com^
-! @@||https://push-ue.softphone.com^
-! @@||https://push-ue3.softphone.com^
-! @@||https://push-uw.softphone.com^
-! @@||https://push-uw3.softphone.com^
-! @@||https://push-za.softphone.com^
+@@||https://push.softphone.com^
+@@||https://push-as.softphone.com^
+@@||https://push-as3.softphone.com^
+@@||https://push-au.softphone.com^
+@@||https://push-au2.softphone.com^
+@@||https://push-eu.softphone.com^
+@@||https://push-eu2.softphone.com^
+@@||https://push-jp.softphone.com^
+@@||https://push-uc.softphone.com^
+@@||https://push-ue.softphone.com^
+@@||https://push-ue3.softphone.com^
+@@||https://push-uw.softphone.com^
+@@||https://push-uw3.softphone.com^
+@@||https://push-za.softphone.com^
 ! 
 ! Controllers and Related Servers
-! @@||stretto.cloudprovisioning.com^
-! @@||collab.cloudprovisioning.com^
-! @@||imp.softphone.com^
+@@||stretto.cloudprovisioning.com^
+@@||collab.cloudprovisioning.com^
+@@||imp.softphone.com^
 ! 
 ! Master Server List
-! @@||as-cs1.softphone.com^
-! @@||as-cs2.softphone.com^
-! @@||as-cs3.softphone.com^
-! @@||as-cs4.softphone.com^
-! @@||as-cs5.softphone.com^
-! @@||au-cs1.softphone.com^
-! @@||au-cs2.softphone.com^
-! @@||au-cs3.softphone.com^
-! @@||au-cs4.softphone.com^
-! @@||au-cs5.softphone.com^
-! @@||euwest1-cs1.softphone.com^
-! @@||euwest1-cs2.softphone.com^
-! @@||euwest1-cs3.softphone.com^
-! @@||euwest1-cs4.softphone.com^
-! @@||euwest1-cs5.softphone.com^
-! @@||cs18.softphone.com^
-! @@||euwest2-cs1.softphone.com^
-! @@||euwest2-cs2.softphone.com^
-! @@||euwest2-cs3.softphone.com^
-! @@||euwest2-cs4.softphone.com^
-! @@||euwest2-cs5.softphone.com^
-! @@||asiasouth-cs1.softphone.com^
-! @@||asiasouth-cs2.softphone.com^
-! @@||asiasouth-cs3.softphone.com^
-! @@||asiasouth-cs4.softphone.com^
-! @@||asiasouth-cs5.softphone.com^
-! @@||mex-cs1.softphone.com^
-! @@||mex-cs2.softphone.com^
-! @@||mex-cs3.softphone.com^
-! @@||mex-cs4.softphone.com^
-! @@||mex-cs5.softphone.com^
-! @@||sa-cs1.softphone.com^
-! @@||sa-cs2.softphone.com^
-! @@||sa-cs3.softphone.com^
-! @@||sa-cs4.softphone.com^
-! @@||sa-cs5.softphone.com^
-! @@||useast4-cs1.softphone.com^
-! @@||useast4-cs2.softphone.com^
-! @@||useast4-cs3.softphone.com^
-! @@||useast4-cs4.softphone.com^
-! @@||useast4-cs5.softphone.com^
-! @@||useast-cs1.softphone.com^
-! @@||useast-cs2.softphone.com^
-! @@||useast-cs3.softphone.com^
-! @@||useast-cs4.softphone.com^
-! @@||useast-cs5.softphone.com^
-! @@||cs13.softphone.com^
-! @@||usw1-cs1.softphone.com^
-! @@||usw1-cs2.softphone.com^
-! @@||usw1-cs3.softphone.com^
-! @@||cs14.softphone.com^
-! @@||usw2-cs1.softphone.com^
-! @@||usw2-cs2.softphone.com^
-! @@||za-cs1.softphone.com^
-! @@||za-cs2.softphone.com^
-! @@||za-cs3.softphone.com^
-! @@||za-cs4.softphone.com^
-! @@||za-cs5.softphone.com^
-! @@||usw2-cs.softphone.com^
+@@||as-cs1.softphone.com^
+@@||as-cs2.softphone.com^
+@@||as-cs3.softphone.com^
+@@||as-cs4.softphone.com^
+@@||as-cs5.softphone.com^
+@@||au-cs1.softphone.com^
+@@||au-cs2.softphone.com^
+@@||au-cs3.softphone.com^
+@@||au-cs4.softphone.com^
+@@||au-cs5.softphone.com^
+@@||euwest1-cs1.softphone.com^
+@@||euwest1-cs2.softphone.com^
+@@||euwest1-cs3.softphone.com^
+@@||euwest1-cs4.softphone.com^
+@@||euwest1-cs5.softphone.com^
+@@||cs18.softphone.com^
+@@||euwest2-cs1.softphone.com^
+@@||euwest2-cs2.softphone.com^
+@@||euwest2-cs3.softphone.com^
+@@||euwest2-cs4.softphone.com^
+@@||euwest2-cs5.softphone.com^
+@@||asiasouth-cs1.softphone.com^
+@@||asiasouth-cs2.softphone.com^
+@@||asiasouth-cs3.softphone.com^
+@@||asiasouth-cs4.softphone.com^
+@@||asiasouth-cs5.softphone.com^
+@@||mex-cs1.softphone.com^
+@@||mex-cs2.softphone.com^
+@@||mex-cs3.softphone.com^
+@@||mex-cs4.softphone.com^
+@@||mex-cs5.softphone.com^
+@@||sa-cs1.softphone.com^
+@@||sa-cs2.softphone.com^
+@@||sa-cs3.softphone.com^
+@@||sa-cs4.softphone.com^
+@@||sa-cs5.softphone.com^
+@@||useast4-cs1.softphone.com^
+@@||useast4-cs2.softphone.com^
+@@||useast4-cs3.softphone.com^
+@@||useast4-cs4.softphone.com^
+@@||useast4-cs5.softphone.com^
+@@||useast-cs1.softphone.com^
+@@||useast-cs2.softphone.com^
+@@||useast-cs3.softphone.com^
+@@||useast-cs4.softphone.com^
+@@||useast-cs5.softphone.com^
+@@||cs13.softphone.com^
+@@||usw1-cs1.softphone.com^
+@@||usw1-cs2.softphone.com^
+@@||usw1-cs3.softphone.com^
+@@||cs14.softphone.com^
+@@||usw2-cs1.softphone.com^
+@@||usw2-cs2.softphone.com^
+@@||za-cs1.softphone.com^
+@@||za-cs2.softphone.com^
+@@||za-cs3.softphone.com^
+@@||za-cs4.softphone.com^
+@@||za-cs5.softphone.com^
+@@||usw2-cs.softphone.com^
