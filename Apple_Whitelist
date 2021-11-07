@@ -3,13 +3,13 @@
 !
 !
 ! Device setup
-@@||albert.apple.com^
-@@||captive.apple.com^
+@@||albert.apple.com^ 
+@@||captive.apple.com^ 
 @@||gs.apple.com^	
-@@||humb.apple.com^
-@@||static.ips.apple.com^
+@@||humb.apple.com^ 
+@@||static.ips.apple.com^ 
 @@||sq-device.apple.com^	
-@@||tbsc.apple.com^	
+@@||tbsc.apple.com^ 
 @@||time-ios.apple.com^	
 @@||time.apple.com^	
 @@||time-macos.apple.com^
@@ -60,9 +60,19 @@
 @@||itunes.apple.com^
 @@||ppq.apple.com^
 !
+! Mobilfunkanbieter-Updates^
+@@||appldnld.apple.com^
+@@||appldnld.apple.com.edgesuite.net^
+@@||itunes.com^
+@@||itunes.apple.com^
+@@||updates-http.cdn-apple.com^
+@@||updates.cdn-apple.com^	
+!
 ! Content caching
 @@||lcdn-registration.apple.com^
 @@||serverstatus.apple.com^
+@@||suconfig.apple.com^
+@@||xp-cdn.apple.com^	
 !
 ! Feedback Assistant
 @@||fba.apple.com^
@@ -76,6 +86,7 @@
 @@||doh.dns.apple.com^
 !
 ! Certificate validation
+@@||certs.apple.com^
 @@||crl.apple.com^
 @@||crl.entrust.net^	
 @@||crl3.digicert.com^
@@ -101,4 +112,31 @@
 @@||17.188.20.0^
 !
 @@||api.smoot.apple.com^
+!
+! Apple ID
+@@||appleid.apple.com/de^
+@@||appleid.cdn-apple.com^
+@@||idmsa.apple.com^
+@@||gsa.apple.com^
+!
+! iCloud
+@@||*.apple-cloudkit.com^	
+@@||*.apple-livephotoskit.com^
+@@||*.apzones.com^
+@@||*.cdn-apple.com^	
+@@||*.gc.apple.com^
+@@||*.icloud.com^	
+@@||*.icloud.com.cn^
+@@||*.icloud.apple.com^	
+@@||*.icloud-content.com^	
+@@||*.iwork.apple.com^
+!
+! Zusätzliche Inhalte
+@@||audiocontentdownload.apple.com^
+@@||devimages-cdn.apple.com^
+@@||download.developer.apple.com^
+@@||playgrounds-assets-cdn.apple.com^	
+@@||playgrounds-cdn.apple.com^	
+@@||sylvan.apple.com^
+
 
